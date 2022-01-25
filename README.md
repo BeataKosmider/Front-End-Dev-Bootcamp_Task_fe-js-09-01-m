@@ -1,9 +1,9 @@
-# Lekcja 4
-## Zadanie 1 - pro
-Stwórz funkcję `createButton` tworzącą element `<button>` o identyfikatorze `"super-button"`, dowolnej nazwie w środku i dodaj go do elementu `<body>`. Funkcja powinna także zwracać tego buttona. Następnie stwórz funkcję `openAlert`, która będzie uruchamiała wbudowaną funkcję `window.alert` z tekstem `"super"`. Funkcja `openAlert` powinna zostać wywołana w momencie kliknięcia na utworzony przycisk `"super-button"`.
+# 9.1
 
-Przykładowy input:
-Brak
+Tym razem Twoje zadanie jest inne (i znacząco prostsze :)).
 
-Przykładowy output:
-Element `<button id="super-button">` wraz z pozostałymi założeniami
+Plik index.js jest w tej chwili w sloppy mode (przeciwieństwo strict mode), więc napisana już tam funkcja obecnie zwraca "No error". Dzieje się tak ponieważ w sloppy mode deklaracja zmiennej bez słówka let nie jest uważane za błąd. Sytuacja wygląda inaczej w strict mode, który nie pozwala na takie braki deklaracji zmiennych.
+
+Twoim zadaniem jest (bez zmieniania kodu funkcji!) sprawić, żeby funkcja zwracała "Error" (L9).
+
+Powodzenia :)
