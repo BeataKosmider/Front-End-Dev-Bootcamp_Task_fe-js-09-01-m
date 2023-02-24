@@ -1,5 +1,5 @@
 // tutaj Twoj kod :)
-
+"use strict";
 // nie zmieniaj kodu funkcji!
 const errorOnlyWithStrictMode = () => {
   try {

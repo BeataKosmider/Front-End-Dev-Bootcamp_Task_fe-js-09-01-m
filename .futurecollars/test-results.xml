@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="0.148">
+  <testsuite name="" errors="0" failures="0" skipped="0" timestamp="2023-02-24T08:29:40" time="0.143" tests="1">
+    <testcase classname=" Funkcja zwraca informacje o bledzie, gdy jest w strict mode" name=" Funkcja zwraca informacje o bledzie, gdy jest w strict mode" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
